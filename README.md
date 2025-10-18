@@ -1,4 +1,4 @@
-# 📱 Mobile & Tablet Mockup Generator
+# Mobile-Tablet-Mockup-Creator
 
 A modern, feature-rich Next.js web application that allows you to create professional device mockups for your screenshots instantly. Perfect for portfolios, presentations, app store listings, and marketing materials.
 
